@@ -1,2 +1,2 @@
-# public-BrewStatus
-Public Repo for BrewStatus
+# BrewStatus
+Repo for all issues regarding http://www.brewstat.us
